@@ -38,7 +38,7 @@
 <p>I'm still building my portfolio,but i have some projects and you can find some of them <a href="https://github.com/igortrust?tab=repositories">HERE!</a> </p>
 <div display="block">
 	<p align="center">
- <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=igortrust&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+ <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=igortrust&show_icons=true&hide_border=false&line_height=25&title_color=f69673&theme=dark&include_all_commits=true&show_owner=true"/>
 </p>
 </div>
 
