@@ -2,51 +2,50 @@
 
 ### Who am I?
 <p>
-  🧔 My name is <bold>Igor</bold> and I like to automate "things".<br/>
-  💻 Developer. <bold>VBA</bold><em></em> × <bold>JS</bold>.<br/>
+ My name is <bold>Igor Nunes</bold>, a technology enthusiast with a passion for solving complex problems and automating processes. With a diverse background spanning over 14 years in the tech industry, I stand out for my ability to effectively and efficiently manage projects and teams. Additionally, as an educator, I have the privilege of inspiring the next generation of developers and sharing my passion for innovation and lifelong learning. Currently, I am expanding my knowledge and skills through an MBA in Software Architecture and Solutions.
 </p>
 
 ---
 
 ### What I do in my life?
-<p>I am an entrepreneur in other fields, but I have been addicted to programming for more than 10 years in VBA and for 1 year with JS with a focus on webscraping and integration with google APIs and CRM's!</p>
+<p>As a Technical Lead, I foster technological innovation, directing the development of diverse bots and our proprietary CRM, optimizing data exchange with partners and integrating seamlessly with Hubspot. I'm known for my versatility, as I leverage a wide array of technologies such as JavaScript, React, TypeScript, NodeJS, Mysql, Jest, AWS, Oracle and VBA to adapt and deliver solutions. 
 
-### What technologies can I work with today
-<div display="block">
-<img align="left" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' />
-<img align="left" src='https://camo.githubusercontent.com/890904a688ecd46a273f0a19c32721ccd49d6e9fab9f3900369e95e17f2f24e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f457863656c2d3231373334363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465' alt='VBA' />
-<img align="left" src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='node' />
-<img align="left" src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='express' />
-</div>
-<br> <br>
-<div>	
-<img align="left" src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB' />
-<img align="left" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
-</div>
-<br> <br>
+Task management, demand prioritization, and the promotion of agile processes using Scrum and Kanban are part of my day-to-day responsibilities, reflecting my commitment to teamwork and project management.
 
-### What technologies am I currently studying?
-<div display="block">
-<img align="left" src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white' alt='Shell Script' />
-<img align="left" src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' />  
-</div>
-<br>
-
----
-
-### My codes
-<p>I'm still building my portfolio,but i have some projects and you can find some of them <a href="https://github.com/igortrust?tab=repositories">HERE!</a> </p>
-<div display="block">
-	<p align="center">
- <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=igortrust&show_icons=true&hide_border=false&line_height=25&title_color=f69673&theme=dark&include_all_commits=true&show_owner=true"/>
+In addition to my leadership role, I serve as a Full Stack Development Instructor. In this capacity, I share my expertise and knowledge in cutting-edge technologies with budding developers. My teaching is focused on JavaScript, NodeJS, ReactJS, REST APIs, MySQL, and Scrum Agile Methodology, with an emphasis on real-world applications and best practices.
 </p>
+
+## Technologies I Can Work With
+
+- JavaScript
+- React
+- TypeScript
+- NodeJS
+- Redux
+- Jest
+- Mocha
+- MySQL
+- AWS Cloud & Oracle
+- REST APIs
+- Scrum
+
+## What I'm Currently Studying
+
+- Continually learning about new technologies and development practices
+- Currently pursuing an MBA in Software Architecture and Solutions at [XP Educação](https://www.linkedin.com/company/xp-educa%C3%A7%C3%A3o/about/ "XP Educação").
+---
+
+ <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=igortrust&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
+
+<img  width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=igortrust&hide_current_streak=true&theme=monokai-metallian" />
+<br/>
+
 </div>
 
-
----
 
 ### Contact
 <p>To find me:</p>
+<p align="left">
 <a href='mailto:igor@tseguros.com.br?subject=Oi%20Igor'>
 	<img align="left" src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' />
 </a>
@@ -59,12 +58,10 @@
 <a href='https://github.com/igortrust'>
 	<img align="left" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' />
 </a>
-<br><br>
+</p>
+<br>
 
 ---
 ### See you later!!
 
 <br><br>
-
-
-
