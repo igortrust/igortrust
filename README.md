@@ -42,7 +42,7 @@ In addition to my leadership role, I serve as a Full Stack Development Instructo
 
 </div>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igortrust&label=Profile%20views&color=0e75b6&style=flat" alt="igortrust" /> </p>
 ### Contact
 <p>To find me:</p>
 <p align="left">
