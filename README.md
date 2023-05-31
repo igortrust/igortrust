@@ -32,7 +32,7 @@ In addition to my leadership role, I serve as a Full Stack Development Instructo
 ## What I'm Currently Studying
 
 - Continually learning about new technologies and development practices
-- Currently pursuing an MBA in Software Architecture and Solutions at [XP Educação](https://www.linkedin.com/company/xp-educa%C3%A7%C3%A3o/about/ "XP Educação").
+- Currently pursuing an MBA in Software Architecture and Solutions at [XP Educação](https://www.linkedin.com/school/xpeducacao/ "XP Educação").
 ---
 
  <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=igortrust&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
